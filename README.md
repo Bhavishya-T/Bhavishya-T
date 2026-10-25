@@ -21,10 +21,10 @@ Outside formal roles, I’ve been spending time in hackathons and small product 
 
 ## Technical focus
 
-- **Backend:** Python, Java, Spring, FastAPI, Flask, REST APIs, service design
-- **Applied AI:** information retrieval, document pipelines, LLM workflows, LoRA adaptation, evaluation
-- **Infrastructure:** AWS, Ray, Docker, Kubernetes, observability, GitHub Actions
-- **Product and interfaces:** TypeScript, React, multimodal interfaces, interactive prototypes
-- **Systems:** distributed services, fault diagnosis, experimentation, timing and performance analysis
+- **Languages:** Python, Java, TypeScript, SQL, Bash
+- **Backend:** Spring MVC, FastAPI, REST APIs, PostgreSQL, Redis
+- **AI and retrieval:** Ray, LoRA, vector search, document ingestion, LLM workflows
+- **Infrastructure and operations:** AWS, Docker, Kubernetes, Prometheus, Grafana, GitHub Actions
+- **Systems and research:** distributed systems, anomaly detection, temporal propagation, service-dependency graphs, evaluation pipelines
 
 [LinkedIn](https://www.linkedin.com/in/bhavishyat/)

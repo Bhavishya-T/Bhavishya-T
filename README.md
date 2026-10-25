@@ -21,8 +21,8 @@ Outside formal roles, I’ve been spending time in hackathons and small product 
 
 ## Technical focus
 
-- **Backend:** Python, Java, TypeScript, Spring, FastAPI, REST APIs, PostgreSQL, Redis
-- **Applied AI:** document retrieval, vector search, LangChain, LLM workflows, LoRA, Ray, agent orchestration, tool use, MCP, evaluation harnesses
-- **Infrastructure:** AWS, Docker, Kubernetes, Prometheus, Grafana, GitHub Actions
+- **Backend:** Python, Java, TypeScript, Spring, FastAPI, REST APIs, PostgreSQL, Redis, React
+- **Applied AI:** document retrieval, vector search, LangChain, LLM workflows, LoRA, Ray, agent orchestration, tool use, MCP, evaluation harnesses, multimodal interfaces
+- **Infrastructure:** AWS, Docker, Kubernetes, Prometheus, Grafana, GitHub Actions, LiveKit, WebXR, Shopify integrations
 
 [LinkedIn](https://www.linkedin.com/in/bhavishyat/)

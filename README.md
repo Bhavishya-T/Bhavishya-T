@@ -10,6 +10,15 @@ Most of my work has involved taking a system I didn’t know well and figuring o
 - At **Nuclei**, developed Java/Spring services and REST APIs for banking workflows, including payments, EMI, and customer notifications, alongside monitoring and deployment automation.
 - At **NC State**, completed an MS in Computer Science, coauthored adaptive-learning research, and contributed smoothing, pipeline timing, experiment logging, and persisted diagnostic output to a Kubernetes microservice diagnosis project.
 
+## Recent creative work
+
+Outside formal roles, I’ve been spending time in hackathons and small product experiments. Recent work includes:
+
+- Building **Coherence**, a personal tool for turning scattered work into a clearer, source-linked narrative.
+- Exploring spatial interfaces and voice-driven shopping in a WebXR/Shopify hackathon project.
+- Designing the presentation layer for a visual support agent, where on-screen guidance has to stay tied to the right camera evidence.
+- Working through the practical questions around AI interfaces: what should be automated, what needs a human in the loop, and how a person can tell why a system made a suggestion.
+
 ## Technical focus
 
 Backend services · applied AI · information retrieval · model deployment · Python · Java · TypeScript · AWS · Ray · Kubernetes · distributed systems

@@ -2,7 +2,7 @@
 
 Software engineer focused on backend systems, applied AI, and the infrastructure that makes intelligent software useful in real workflows.
 
-Most of my work has involved taking a system I didn’t know well and figuring out where I could make it more useful. That has meant building banking services at Nuclei, working on document retrieval and model deployment at Cognida.ai, and exploring learning systems and microservice diagnosis at NC State. The common thread is practical: understand the problem, make a sound technical choice, and leave the system clearer than I found it.
+Most of my work has involved taking a system I didn’t know well and figuring out where I could make it more useful. The common thread is practical: understand the problem, make a sound technical choice, and leave the system clearer than I found it.
 
 ## Background
 

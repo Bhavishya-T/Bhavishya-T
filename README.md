@@ -10,7 +10,7 @@ Most of my work has involved taking a system I didn’t know well and figuring o
 - At **Nuclei**, developed Java/Spring services and REST APIs for banking workflows, including payments, EMI, and customer notifications, alongside monitoring and deployment automation.
 - At **NC State**, completed an MS in Computer Science, coauthored adaptive-learning research, and contributed smoothing, pipeline timing, experiment logging, and persisted diagnostic output to a Kubernetes microservice diagnosis project.
 
-## Recent creative work
+## Independent work
 
 Outside formal roles, I’ve been spending time in hackathons and small product experiments. Recent work includes:
 

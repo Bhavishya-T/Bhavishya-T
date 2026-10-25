@@ -1,19 +1,25 @@
 # Bhavishya Tarun
 
-Software engineer working across backend systems, applied AI, and research, with a fondness for difficult problems and clear, useful software.
+Software engineer focused on backend systems, applied AI, and the infrastructure that makes intelligent software useful in real workflows.
 
-The work sits at the intersection of systems and people: understanding an unfamiliar domain, finding the constraint that matters, and turning an ambitious idea into something dependable. Experience spans production services, document retrieval and model deployment, adaptive-learning research, systems diagnosis, and practical interfaces for AI-assisted workflows.
+The best work usually starts with an unfamiliar system and a concrete problem. Curiosity helps with the first part; careful engineering, clear communication, and good judgment carry it through the second. The goal is software that is useful in practice, understandable to the next engineer, and honest about what it can and cannot do.
 
-## What tends to matter
+## Background
 
-- Clear reasoning over impressive-sounding abstractions
-- Evidence and experiments over guesswork
-- Interfaces and handoffs that make systems easier to use
-- Tools that help people understand what is happening
-- Enough curiosity to cross the boundary between disciplines
+- At **Cognida.ai**, worked on document ingestion and retrieval, LoRA-based model adaptation, Ray-based inference, AWS deployment, and financial data preparation for downstream model workflows.
+- At **Nuclei**, developed Java/Spring services and REST APIs for banking workflows, including payments, EMI, and customer notifications, alongside monitoring and deployment automation.
+- At **NC State**, completed an MS in Computer Science, coauthored adaptive-learning research, and contributed smoothing, pipeline timing, experiment logging, and persisted diagnostic output to a Kubernetes microservice diagnosis project.
 
-Current interests include applied AI, developer tools, infrastructure, retrieval, and forward-deployed engineering.
+## Technical focus
 
-Previously Cognida.ai and Nuclei · MS Computer Science, NC State
+Backend services · applied AI · information retrieval · model deployment · Python · Java · TypeScript · AWS · Ray · Kubernetes · distributed systems
 
-[LinkedIn](https://www.linkedin.com/in/bhavishyat/) · [Coherence](https://github.com/Bhavishya-T/coherence)
+## Working style
+
+- Understand the real constraint before choosing the abstraction.
+- Make decisions and system behavior easy to inspect.
+- Treat handoffs, interfaces, and explanations as part of the engineering.
+- Use experiments and evidence to separate a useful result from a convincing demo.
+- Help ambitious ideas become practical without losing the reason they mattered.
+
+[LinkedIn](https://www.linkedin.com/in/bhavishyat/)

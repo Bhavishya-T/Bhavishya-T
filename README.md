@@ -22,7 +22,7 @@ Outside formal roles, I’ve been spending time in hackathons and small product 
 ## Technical focus
 
 - **Backend:** Python, Java, TypeScript, Spring, FastAPI, REST APIs, PostgreSQL, Redis
-- **Applied AI:** document retrieval, vector search, LangChain, LLM workflows, LoRA, Ray, evaluation pipelines
+- **Applied AI:** document retrieval, vector search, LangChain, LLM workflows, LoRA, Ray, agent orchestration, tool use, MCP, evaluation harnesses
 - **Infrastructure:** AWS, Docker, Kubernetes, Prometheus, Grafana, GitHub Actions
 - **Systems and interfaces:** distributed services, anomaly detection, temporal propagation, React, multimodal and interactive interfaces
 

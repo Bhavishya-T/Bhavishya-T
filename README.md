@@ -27,11 +27,4 @@ Outside formal roles, I’ve been spending time in hackathons and small product 
 - **Product and interfaces:** TypeScript, React, multimodal interfaces, interactive prototypes
 - **Systems:** distributed services, fault diagnosis, experimentation, timing and performance analysis
 
-## Working style
-
-- Understand the real constraint before choosing the abstraction.
-- Make decisions and system behavior easy to inspect.
-- Treat handoffs, interfaces, and explanations as part of the engineering.
-- Use experiments and evidence to separate a useful result from a convincing demo.
-
 [LinkedIn](https://www.linkedin.com/in/bhavishyat/)

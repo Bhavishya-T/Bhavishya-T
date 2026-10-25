@@ -2,7 +2,7 @@
 
 Software engineer focused on backend systems, applied AI, and the infrastructure that makes intelligent software useful in real workflows.
 
-Most of my work has involved taking a system I didn’t know well and figuring out where I could make it more useful. The common thread is practical: understand the problem, make a sound technical choice, and leave the system clearer than I found it.
+Most of my work has involved taking a systems apart and figuring out where I could make it more useful. The common thread is practical, to understand the problem, make smart technical choices, and make the system clearer than I found it.
 
 ## Background
 

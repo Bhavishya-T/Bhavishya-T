@@ -1,28 +1,33 @@
 # Bhavishya Tarun
 
-Software engineer focused on backend systems, applied AI, and the infrastructure that makes intelligent software useful in real workflows.
+Software engineer building backend systems and applied AI for real workflows. Experience includes Java and Spring fintech services, document retrieval and LLM deployment on AWS, adaptive learning research, and Kubernetes microservice diagnosis.
 
-Most of my work has involved taking a system I didn’t know well and figuring out where I could make it more useful. The common thread is practical: understand the problem, make a sound technical choice, and leave the system clearer than I found it.
+My work spans data pipelines, retrieval, model serving, APIs, and distributed systems. I turn complex requirements into reliable software with clear interfaces and measurable behavior.
 
 ## Background
 
-- At **Cognida.ai**, worked on document ingestion and retrieval, LoRA-based model adaptation, Ray-based inference, AWS deployment, and financial data preparation for downstream model workflows.
-- At **Nuclei**, developed Java/Spring services and REST APIs for banking workflows, including payments, EMI, and customer notifications, alongside monitoring and deployment automation.
-- At **NC State**, completed an MS in Computer Science, coauthored adaptive-learning research, and contributed smoothing, pipeline timing, experiment logging, and persisted diagnostic output to a Kubernetes microservice diagnosis project.
+At Cognida.ai, I worked on document ingestion and retrieval, LoRA based model adaptation, Ray based inference, AWS deployment, and financial data preparation for downstream model workflows.
+
+At Nuclei, I developed Java and Spring services and REST APIs for banking workflows including payments, EMI, and customer notifications. I also worked on monitoring and deployment automation.
+
+At NC State, I completed an MS in Computer Science, coauthored adaptive learning research, and contributed smoothing, pipeline timing, experiment logging, and persisted diagnostic output to a Kubernetes microservice diagnosis project.
 
 ## Independent work
 
-Outside formal roles, I’ve been spending time in hackathons and small product experiments. Recent work includes:
-
-- Building **Coherence**, a personal tool for turning scattered work into a clearer, source-linked narrative.
-- Exploring spatial interfaces and voice-driven shopping in a WebXR/Shopify hackathon project.
-- Designing the presentation layer for a visual support agent, where on-screen guidance has to stay tied to the right camera evidence.
-- Working through the practical questions around AI interfaces: what should be automated, what needs a human in the loop, and how a person can tell why a system made a suggestion.
+Outside formal roles, I have been spending time on hackathons and small product experiments. Recent work includes Coherence, a personal tool for turning scattered work into a clearer source linked narrative. Other projects explore spatial interfaces, voice driven shopping, visual troubleshooting, and the practical questions around AI interfaces.
 
 ## Technical focus
 
-- **Backend:** Python, Java, TypeScript, Spring, FastAPI, REST APIs, PostgreSQL, Redis, React
-- **Applied AI:** document retrieval, vector search, LangGraph, LLM workflows, LoRA, Ray, agent orchestration, tool use, MCP, evals, harness engineering, multimodal interfaces
-- **Infrastructure:** AWS, Docker, Kubernetes, Prometheus, Grafana, GitHub Actions, WebXR integrations
+Backend
+
+Python, Java, TypeScript, Spring, FastAPI, REST APIs, PostgreSQL, Redis, and React
+
+Applied AI
+
+Document retrieval, vector search, LangGraph, LLM workflows, LoRA, Ray, agent orchestration, tool use, MCP, evals, harness engineering, and multimodal interfaces
+
+Infrastructure
+
+AWS, Docker, Kubernetes, Prometheus, Grafana, GitHub Actions, and WebXR integrations
 
 [LinkedIn](https://www.linkedin.com/in/bhavishyat/)

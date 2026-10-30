@@ -1,28 +1,28 @@
 # Bhavishya Tarun
 
-Software engineer focused on backend systems, applied AI, and the infrastructure that makes intelligent software useful in real workflows.
+Software engineer focused on agent systems, inference infrastructure, and the backend work that makes them reliable.
 
-Most of my work has involved taking a systems apart and figuring out where I could make it more useful. The common thread is practical, to understand the problem, make smart technical choices, and make the system clearer than I found it.
+At Cognida.ai, I worked on production LLM adaptation and Ray-based inference for legal and financial workflows. Before that, I built Java and Spring services for banking products at Nuclei. That code is private, so the public work below is where you can inspect my engineering decisions.
 
-## Background
+## Selected work
 
-- At **Cognida.ai**, worked on document ingestion and retrieval, LoRA-based model adaptation, Ray-based inference, AWS deployment, and financial data preparation for downstream model workflows.
-- At **Nuclei**, developed Java/Spring services and REST APIs for banking workflows, including payments, EMI, and customer notifications, alongside monitoring and deployment automation.
-- At **NC State**, completed an MS in Computer Science, coauthored adaptive-learning research, and contributed smoothing, pipeline timing, experiment logging, and persisted diagnostic output to a Kubernetes microservice diagnosis project.
+### [Kubernetes microservice diagnosis](https://github.com/chrono-rca-lab/microservice-blackbox-rca)
 
-## Independent work
+A team research project on finding the source of failures when symptoms spread across services. The system collects Prometheus metrics from Google Online Boutique, injects faults with Chaos Mesh, and uses change points and service dependencies to reason about propagation. My contributions included metric smoothing, pipeline timing, experiment logging, and persisted diagnostic output. The team evaluated 33 fault-injection experiments.
 
-Outside formal roles, I’ve been spending time in hackathons and small product experiments. Recent work includes:
+### [Visual support agent](https://github.com/Benonii/facetime-support-agent/pull/10)
 
-- Building **Coherence**, a personal tool for turning scattered work into a clearer, source-linked narrative.
-- Exploring spatial interfaces and voice-driven shopping in a WebXR/Shopify hackathon project.
-- Designing the presentation layer for a visual support agent, where on-screen guidance has to stay tied to the right camera evidence.
-- Working through the practical questions around AI interfaces: what should be automated, what needs a human in the loop, and how a person can tell why a system made a suggestion.
+My contribution to a team voice and video agent was the caller-facing guidance layer. It renders the camera frame, observations, and next step into a live guide card. Annotations only appear when they match the current frame; stale or invalid targets stay hidden. The screen also reports its visible state back to the agent so spoken guidance can agree with what the caller sees. The linked PR includes the implementation and tests.
 
-## Technical focus
+### [Coherence](https://github.com/Bhavishya-T/coherence)
 
-- **Backend:** Python, Java, TypeScript, Spring, FastAPI, REST APIs, PostgreSQL, Redis, React
-- **Applied AI:** document retrieval, vector search, LangChain, LLM workflows, LoRA, Ray, agent orchestration, tool use, MCP, evaluation harnesses, multimodal interfaces
-- **Infrastructure:** AWS, Docker, Kubernetes, Prometheus, Grafana, GitHub Actions, LiveKit, WebXR, Shopify integrations
+A personal prototype for finding the through line across technical work without losing the evidence behind it. It tracks source-backed claims, lets a person choose a direction, and keeps the portfolio, introduction, and visual reel consistent with that choice. The public browser demo runs locally without model calls; the README explains what is implemented and what remains a prototype.
+
+## More experiments
+
+- [Spatial shopping](https://github.com/jerelvelarde/fast-forward-spatial-shop/pulls?q=is%3Apr+author%3ABhavishya-T) — Team hackathon work on live Shopify search, voice and Quest controls, 3D preview generation, protected model polling, and an instant saved-model demo. The link shows my PRs.
+- [BankGPT](https://github.com/Bhavishya-T/bankgpt-knowledge-system) — A smaller experiment in date-aware, evidence-grounded answers. The README covers the benchmark results, weak cases, and the retrieval tradeoffs.
+
+Current interests: agent execution, tool and context design, inference efficiency, and making system failures easier to understand.
 
 [LinkedIn](https://www.linkedin.com/in/bhavishyat/)
